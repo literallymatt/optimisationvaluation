@@ -1,0 +1,4 @@
+mpan,valid_from,valid_to,band,rate,unit,rate_source
+1234567890123,2026-04-01,2027-03-31,red,10,p_per_kwh,FAKE
+1234567890123,2026-04-01,2027-03-31,amber,1,p_per_kwh,FAKE
+1234567890123,2026-04-01,2027-03-31,green,0.1,p_per_kwh,FAKE
