@@ -1,0 +1,18 @@
+[project]
+name = "optimisation-valuation"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "polars>=2.1.0",
+    "sqlalchemy>=2.1.6",
+    "tzdata>=2026.6",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

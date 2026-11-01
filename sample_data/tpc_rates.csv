@@ -1,0 +1,15 @@
+mpan,valid_from,valid_to,tpc,rate,unit,rate_source
+1234567890123,2026-04-01,2027-03-31,bsuos,10,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,cfd_interim_levy,10,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,cfd_operational_levy,0.1,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,nuclear_rab_interim_levy,3,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,nuclear_rab_operational_levy,0.1,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,renewables_obligation,30,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,feed_in_tariff,8,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,aahedc,0.5,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,climate_change_levy,8,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,bsc_charges,0.2,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,capacity_market_supplier_charge,50,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,capacity_market_settlement_levy,0.1,gbp_per_mwh,FAKE
+1234567890123,2026-04-01,2027-03-31,duos_exceeded_capacity,5,p_per_kva_day,FAKE
+1234567890123,2026-04-01,2027-03-31,duos_excess_reactive,0.2,p_per_kvarh,FAKE
